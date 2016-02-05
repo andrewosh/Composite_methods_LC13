@@ -1,6 +1,6 @@
 ## Composite analysis with Monte Carlo methods: an example with cosmic rays and clouds, in Python ##
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/benlaken/Composite_methods_LC13)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/andrewosh/Composite_methods_LC13)
 
 Launch with BINDER.
 
